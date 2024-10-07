@@ -21,6 +21,7 @@ The **Series 9 Energy Transformer** is an evolution of the original Series 5, de
 - **Primary Function**: Power management and energy harvesting for augmentations  
 - **Size**: 0.71 m x 0.01 m x 0.01 m (Standard-class) 
 - **Weight**: 0.035 kg
+- **Processor**: DeepLink G-8 Microprocessor
 - **Power Output**: Up to **1 W** continuous (scalable output)  
 - **Energy Storage**: Internal **nano-cell** battery (stores up to **20 mAh**)  
 - **Heat Output**: 3.56 BTU/Hr (optimized for neural and sensory implants)  
