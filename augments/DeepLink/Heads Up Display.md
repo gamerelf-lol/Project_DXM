@@ -3,7 +3,7 @@
 **Manufacturer**: DeepLink Global  
 **Developed in**: DeepLink Neuroscience Research Facility, VIRO  
 **Release Year**: 2091  
-**Cost**: Free  
+**Retail Price**: Free  
 **Requires**: **Visual Cortex Augment Prosthesis (VCAP)**
 
 ---
