@@ -1,11 +1,11 @@
 # Who are the mega-corps?
 
-### [something] Global (the Evil Overlords)
+### [something] Global
 
 Industry: Cybernetics, AI Development, Military Technology
 Created: OVERMIND, Avian Androids, among other things.
 
-### Virex Dynamics (Creators of VIRO)
+### Virex Dynamics
 
 Industry: Urban Infrastructure, City Management Systems, Automated Architecture
 Created: VIRO, among other things.
