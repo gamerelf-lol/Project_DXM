@@ -84,6 +84,8 @@
 **Industry**: Military Aviation, Aerospace Engineering, Unmanned Aerial Vehicles (UAVs)  
 **Overview**: Takaishi Aeronautics specializes in the design and manufacturing of military aviation technology, including manned and unmanned aerial vehicles. The company provides fighter jets, drones, and aerospace systems used in military operations. Takaishi Aeronautics is also involved in the development of orbital defense technologies and autonomous combat drones, which are employed in reconnaissance and tactical operations.
 
+---
+
 ### **Glencore**
 
 **Based in**: Kinshasa, Democratic Republic of the Congo  
