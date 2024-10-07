@@ -9,7 +9,7 @@
 
 ### Overview
 
-The **Visual Cortex Augment Prosthesis (VCAP)** by **DeepLink Global** is a foundational neural augmentation platform designed to act as the core framework for a wide range of specialized augmentations. By providing an advanced neural interface integrated directly with the brain’s visual cortex, the VCAP serves as the base ‘chassis’ to which other, more specialized augmentations can be built and installed.
+The **Visual Cortex Augment Prosthesis (VCAP)** by **DeepLink Global** is a neural augmentation platform designed to act as the core framework for a wide range of specialized augmentations. By providing an advanced neural interface integrated directly with the brain’s visual cortex, the VCAP serves as the base ‘chassis’ to which other, more specialized augmentations can be built and installed.
 
 This prosthetic is primarily focused on creating a high-performance neural network that translates between human cognition and a broad variety of augmented functionalities. Once installed, it allows users to seamlessly integrate further augmentations, such as enhanced vision, neural interfaces, cyberstealth systems, and combat augmentations. The VCAP’s adaptable neural framework is designed to grow with the user, allowing for future upgrades and modifications as new augmentations are developed.
 
