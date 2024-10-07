@@ -2,16 +2,16 @@
 
 **Manufacturer**: DeepLink Global  
 **Developed in**: DeepLink Neuroscience Research Facility, VIRO  
+**Release Year**: 2094
 **Retail**: USD$99  
-**Required**: DeepLink Auditory Cortext Augment Prosthetic
 
 ---
 
 ### Overview
 
-The **DeepLink Infolink** is an advanced neural augmentation developed by **DeepLink Global**, designed to enable users to transmit, receive, and interpret radio signals directly through their neural network. This augment functions as a real-time communication system, offering seamless integration with wireless devices, networks, and other augmented individuals equipped with compatible systems.  
+The DeepLink Infolink is an advanced neural augmentation developed by DeepLink Global, designed to enable users to transmit, receive, and interpret radio signals directly through their neural network. This augment functions as a real-time communication system, offering seamless integration with wireless devices, networks, and other augmented individuals equipped with compatible systems. Neuro-communication is enabled when paired with the Auditory Cortex Augment Prosthesis (ACAP), allowing users to communicate silently and efficiently without external devices.
 
-The **Infolink** operates as a bridge between the brain and wireless networks, allowing users to interface with various systems and devices, including security networks, communication hubs, and even personal wireless gadgets. By leveraging direct neural processing, **Infolink** enables real-time data transmission and reception, making it a highly sought-after tool for professionals in intelligence, covert operations, and high-tech industries.
+The Infolink operates as a bridge between the brain and wireless networks, allowing users to interface with various systems and devices, including security networks, communication hubs, and even personal wireless gadgets. By leveraging direct neural processing, Infolink enables real-time data transmission and reception, making it a highly sought-after tool for professionals in intelligence, covert operations, and high-tech industries.
 
 ---
 
@@ -21,7 +21,7 @@ The **Infolink** operates as a bridge between the brain and wireless networks, a
 - **Primary Function**: Wireless communication and radio signal transmission/interpretation  
 - **Size**: 2.0 cm x 1.8 cm (Mini-class)  
 - **Location**: Cerebral Cortex  
-- **Processor**: **DeepLink G-8 Microprocessor**  
+- **Processor**: **DeepLink SNN Neuromorphic Matrix**
 - **Frequency Range**: 30 MHz to 300 GHz (wideband coverage)  
 - **Power Source**: DeepLink Series 3+ Energy Transformer  
 - **Power Draw**: 0.07 W  
@@ -37,7 +37,7 @@ The **Infolink** operates as a bridge between the brain and wireless networks, a
    The **Infolink** allows users to transmit and receive radio signals directly through their neural network. By translating these signals into interpretable data within the brain, it enables users to communicate wirelessly with other individuals or systems without relying on external devices like headsets or communicators.
 
 2. **Neuro-Communication Support**  
-   **Infolink** offers a powerful neuro-communication system. Users can send and receive messages directly to and from other augmented individuals through silent neural transmissions, offering a discreet and highly efficient means of communication in both professional and personal settings.
+   **Infolink** offers a powerful neuro-communication system. With ACAP enabled, users can send and receive messages directly to and from other Infolink + ACAP augmented individuals through silent neural transmissions, offering a discreet and highly efficient means of communication in both professional and personal settings.
 
 3. **Wideband Frequency Coverage**  
    The **Infolink** supports a wide frequency range of 30 MHz to 300 GHz, allowing users to interface with multiple wireless devices and systems, including radios, communication networks, and IoT devices. This broad frequency coverage ensures compatibility with various communication protocols.
