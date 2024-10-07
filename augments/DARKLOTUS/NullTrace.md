@@ -52,7 +52,7 @@ NullTrace is engineered to function in both digital and real-world environments,
 ### Applications
 
 - **Covert Cyber Operations**: The **DARKLOTUS NullTrace Augment** is essential for operatives who require complete anonymity while executing cyberattacks, data breaches, or network infiltrations. Its adaptive proxying and footprint erasure ensure that no digital evidence remains after an operation.
-- **Physical Infiltration**: With its **MagWave™** electromagnetic camouflage, the augment allows users to move undetected through highly secured environments, avoiding cameras, drones, and biometric sensors.
+- **Physical Infiltration**: With its electromagnetic camouflage, the augment allows users to move undetected through highly secured environments, avoiding cameras, drones, and biometric sensors.
 - **Espionage and Reconnaissance**: NullTrace is particularly useful for intelligence operatives and corporate spies who need to blend into both digital and physical landscapes without raising suspicion or triggering security alerts.
 - **Sabotage Operations**: The augment is used by black-ops teams and cyber mercenaries for operations where being detected is not an option. Its ability to cloak both network and physical presence makes it a valuable tool for sabotage missions in enemy territory.
 
