@@ -17,7 +17,7 @@ The Infolink operates as a bridge between the brain and wireless networks, allow
 
 ### Technical Specifications
 
-- **Type**: Neural Augmentation  
+- **Type**: Neural Prosthesis  
 - **Primary Function**: Wireless communication and radio signal transmission/interpretation  
 - **Size**: 2.0 cm x 1.8 cm (Mini-class)  
 - **Location**: Cerebral Cortex  
