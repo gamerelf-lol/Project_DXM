@@ -2,7 +2,7 @@
 
 **Manufacturer**: DeepLink Global  
 **Developed in**: DeepLink Neuroscience Research Facility, VIRO  
-**Release Year**: 2094
+**Release Year**: 2094  
 **Retail**: USD$99  
 
 ---
