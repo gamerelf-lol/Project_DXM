@@ -16,7 +16,7 @@
 
 ### **Atlas Arms Corporation**
 
-**Based in**: VIRO, America
+**Based in**: VIRO, America  
 **Industry**: Military-Grade Augmentations, Cybernetic Weaponry, Combat Enhancements  
 **Overview**: **Atlas Arms Corporation** specializes in the development and production of military-grade cybernetic augmentations and combat enhancements. The company designs and manufactures a wide range of augmentations tailored for use in combat situations, including exoskeletons, strength-enhancing prosthetics, and integrated weapon systems. Atlas Arms works closely with military organizations and private security forces, providing custom augmentation solutions that enhance battlefield performance and durability. Their products are engineered for use in high-stress environments and are designed to give soldiers superior capabilities in terms of speed, strength, and resilience.
 
