@@ -17,14 +17,13 @@ NullTrace functions simultaneously across both digital and physical environments
 
 - **Type**: Cybernetic Neural Augmentation  
 - **Primary Function**: Physical and digital stealth; cloaking of network activity and physical presence  
-- **Size**: Micro-sized neural implant connected to the cerebral cortex  
+- **Size**: 0.7mm x 0.08mm (Micro-class)
+- **Location**: Ceberal Cortex
 - **Power Source**: Bio-electricity generated from the user’s neural activity
 - **Power Draw**: 9.48 µW
 - **Proxing Speed**: Instantaneous adaptive proxying with real-time rerouting through secure nodes  
-- **Camouflage Range**: Up to 50 meters for electromagnetic cloaking, with network masking globally  
-- **Software**: **EchoShroud™** Stealth Suite, capable of mimicking and rerouting signals to create a false digital footprint  
-- **Physical Stealth System**: Integrated **MagWave™** Electromagnetic Camouflage for invisibility to surveillance systems and sensors  
-- **Interface**: Controlled through neural commands, allowing the user to activate and manage stealth functions in real time
+- **Camouflage Range**: Up to 50m for electromagnetic cloaking, with network masking globally  
+- **Interface**: Controlled through neural commands
 
 ---
 
