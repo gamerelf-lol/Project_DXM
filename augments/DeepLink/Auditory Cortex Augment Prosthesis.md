@@ -11,7 +11,8 @@
 
 The **Auditory Cortex Augment Prosthesis (ACAP)** by **DeepLink Global** was designed as a foundational neural augmentation platform specifically tailored for auditory enhancements. Released in 2099, **ACAP** provides an advanced neural interface integrated directly with the brain’s auditory cortex, functioning as the core framework for specialized augmentations focused on sound processing and auditory perception. Similar to its successor in the visual space, **ACAP** serves as a versatile base ‘chassis’ for further augmentations, enabling users to integrate upgrades like enhanced hearing, sound filtering, and even advanced auditory signal processing.
 
-Built to provide users with heightened auditory capabilities, **ACAP** laid the groundwork for the eventual development of more complex neural augmentations that bridged multiple sensory pathways.
+Built to provide users with heightened auditory capabilities, **ACAP** laid the groundwork for the eventual development of more complex neural augmentations that bridged multiple sensory pathways.  
+
 ---
 
 ### Technical Specifications
