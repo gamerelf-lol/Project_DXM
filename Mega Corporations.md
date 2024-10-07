@@ -83,3 +83,9 @@
 **Based in**: Tokyo, Japan  
 **Industry**: Military Aviation, Aerospace Engineering, Unmanned Aerial Vehicles (UAVs)  
 **Overview**: Takaishi Aeronautics specializes in the design and manufacturing of military aviation technology, including manned and unmanned aerial vehicles. The company provides fighter jets, drones, and aerospace systems used in military operations. Takaishi Aeronautics is also involved in the development of orbital defense technologies and autonomous combat drones, which are employed in reconnaissance and tactical operations.
+
+### **Glencore**
+
+**Based in**: Kinshasa, Democratic Republic of the Congo  
+**Industry**: Mining, Resource Extraction, Rare Earth Materials, Cybernetic Augmentations  
+**Overview**: **Glencore** is a mining conglomerate headquartered in the Democratic Republic of the Congo, specializing in the extraction of rare earth materials, precious metals, and industrial minerals. The company operates extensive mining operations across the Congo, focusing on cobalt, coltan, and other critical resources essential for the production of cybernetic components, semiconductors, and high-tech devices. In addition to resource extraction, Glencore is also a leader in the development of specialized augmentations designed for the mining industry.
