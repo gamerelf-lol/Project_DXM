@@ -1,4 +1,4 @@
-### **DARKLOTUS Neural Hacking Augment**
+### **DARKLOTUS Neural Hacking Suite**
 
 **Developer**: HeiHu Technologies (黑虎科技)  
 **Based in**: Hengsha, China  
@@ -8,7 +8,7 @@
 
 ### Overview
 
-The **DARKLOTUS Neural Hacking Augment** is a high-end, clandestine cybernetic enhancement developed by **HeiHu Technologies**, specializing in offensive cyber operations and espionage. This neural augmentation enables the user to infiltrate and manipulate neural cybernetic systems, granting them the ability to hack into the minds of individuals with cybernetic augmentations or AI systems integrated into human cognition. This augment provides unparalleled control over compromised systems, making it a critical tool for espionage, sabotage, and covert operations.
+The **DARKLOTUS Neural Hacking Suite** is a high-end, clandestine cybernetic enhancement developed by **HeiHu Technologies**, specializing in offensive cyber operations and espionage. This neural augmentation enables the user to infiltrate and manipulate neural cybernetic systems, granting them the ability to hack into the minds of individuals with cybernetic augmentations or AI systems integrated into human cognition. This augment provides unparalleled control over compromised systems, making it a critical tool for espionage, sabotage, and covert operations.
 
 Designed for use by elite cyber operatives, government agencies, and black-market mercenaries, the DARKLOTUS augment has the capability to bypass high-level security protocols, hijack neural pathways, and even manipulate memory or motor functions of the target. Its discreet nature allows users to maintain complete anonymity while executing complex neural attacks.
 
