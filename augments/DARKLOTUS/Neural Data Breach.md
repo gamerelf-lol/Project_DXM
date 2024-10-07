@@ -1,7 +1,7 @@
 ### **DARKLOTUS Neural Data Breach Augment**
 
 **Developer**: HeiHu Technologies (黑虎科技)  
-**Based in**: Hengsha, China  
+**Developed in**: HeiHu Computer Science Labratory, Hengsha, China  
 **Industry**: Offensive Cyber Operations, Hacking Tools, Espionage Software
 
 ---
