@@ -1,4 +1,4 @@
-### **Digital Transition IR Lens**
+### **Digital Transitional IR Lens**
 
 **Manufacturer**: DeepLink Global  
 **Developed in**: DeepLink Vision Research Facility, VIRO  
@@ -18,7 +18,8 @@ The **Digital Transition IR Lens** is an accessible solution for users looking t
 ### Technical Specifications
 
 - **Type**: Corneal Prosthetic
-- **Primary Function**: Infrared (IR) spectrum vision enhancement  
+- **Primary Function**: Infrared (IR) spectrum vision enhancement
+- **Processor**: DeepLink C-64
 - **Size**: 0.5mm x 0.6mm x 0.25mm (Micro-class)
 - **Location**: Eyes 
 - **Maintenance**: As needed
