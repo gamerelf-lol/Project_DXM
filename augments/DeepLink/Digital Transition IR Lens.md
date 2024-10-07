@@ -19,7 +19,7 @@ The **Digital Transition IR Lens** is an accessible solution for users looking t
 
 - **Type**: Corneal Prosthetic
 - **Primary Function**: Infrared (IR) spectrum vision enhancement
-- **Processor**: DeepLink C-Series 5100 x86-64
+- **Processor**: DeepLink C-Series 5100 x86-64 Micro
 - **Size**: 0.5mm x 0.6mm x 0.25mm (Micro-class)
 - **Location**: Eyes 
 - **Maintenance**: As needed
