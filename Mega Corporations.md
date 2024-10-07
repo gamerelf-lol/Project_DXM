@@ -1,59 +1,77 @@
-# Who are the mega-corps?
-
 ### DeepLink Global
 
-Based in: VIRO, America
-Industry: Neural Cybernetics, AI Development
-Created: OVERMIND, among other things.
+**Based in**: VIRO, America  
+**Industry**: Neural Cybernetics, AI Development  
+**Overview**: DeepLink Global focuses on the development of neural cybernetics and artificial intelligence systems. The company specializes in creating AI-powered neural interfaces that facilitate human-machine interaction, used primarily in the military, corporate, and healthcare sectors. DeepLink is a major player in neural augmentation technologies, providing systems that enhance cognitive capabilities and enable direct communication between human brains and digital networks.
+
+---
 
 ### Virex Dynamics
 
-Based in: VIRO, America
-Industry: Urban Infrastructure, City Management Systems, Automated Architecture
-Created: VIRO, EMP-Resistant Grid Defense (in colaboration with Sentinel Networking & Security), among other things.
+**Based in**: VIRO, America  
+**Industry**: Urban Infrastructure, City Management Systems, Automated Architecture  
+**Overview**: Virex Dynamics develops and implements urban infrastructure solutions and city management systems. The company is responsible for large-scale automated architecture projects, including the development of self-adjusting urban environments. Their technology focuses on optimizing space and resources in densely populated megacities, with their systems managing everything from transportation grids to public services.
+
+---
 
 ### NovaMedica
 
-Based in: Geneva, Switzerland
-Industry: Medical Technologies, Augment Repair, Human-Cybernetic Healthcare
+**Based in**: Geneva, Switzerland  
+**Industry**: Medical Technologies, Augment Repair, Human-Cybernetic Healthcare  
+**Overview**: NovaMedica specializes in medical technologies and services that focus on augment repair and human-cybernetic healthcare. The company provides clinical solutions for individuals with augmentations, offering advanced prosthetic maintenance, repair services, and post-surgery rehabilitation. NovaMedica's services cater to both private clients and corporate healthcare programs, particularly in sectors where human augmentation is prevalent.
+
+---
 
 ### CRISPR Biotech and Genetic Engineering
 
-Based in: VIRO, America
-Industry: Genetic Engineering, Bioaugmentation, Food Engineering
-Created: Functional Oatmeal, among other things.
+**Based in**: VIRO, America  
+**Industry**: Genetic Engineering, Bioaugmentation, Food Engineering  
+**Overview**: CRISPR Biotech and Genetic Engineering focuses on the modification of human biology through genetic engineering and bioaugmentation. The company produces bioengineered food products, enhancements for human performance, and medical treatments designed to improve physical and cognitive functions. Their products are widely used in various sectors, including healthcare, corporate environments, and industrial operations.
 
-### Jinshu Microsystems
+---
 
-Based in: Shenzhen, China
-Industry: Semiconductors, Cybernetic Chips, AI-Integrated Hardware
-Overview: Jinshu Microsystems is a Chinese multinational corporation specializing in high-performance semiconductors and processors for cybernetic augmentations, AI systems, and advanced computing hardware. With deep roots in cutting-edge semiconductor technology, Jinshu Microsystems is the leading supplier of neural-compatible chips and AI-integrated hardware, primarily catering to the cybernetic augmentation and military sectors. Known for its precision engineering and ability to mass-produce advanced semiconductors, Jinshu’s innovations power a significant portion of the world’s augmented individuals.
+### Jinshu Microsystems (金属微系统)
 
-### SynTek Intenational
+**Based in**: Shenzhen, China  
+**Industry**: Semiconductors, Cybernetic Chips, AI-Integrated Hardware  
+**Overview**: Jinshu Microsystems is a semiconductor manufacturer that produces high-performance chips for cybernetic augmentations and AI systems. The company provides critical hardware components used in neural interfaces and cybernetic enhancements, catering to military, corporate, and healthcare sectors. Jinshu Microsystems also supplies processors for advanced computing systems, with a focus on integrating AI and human-machine interfaces.
 
-Based in: VIRO, America
-Industry: Cybersecurity, Data Protection, AI-Driven Defense Systems
-Developed: Quantum Encryption, EMP-Resistant Grid Defense (in colaboration with Virex Dynamics)
+---
+
+### SynTek International
+
+**Based in**: VIRO, America  
+**Industry**: Cybersecurity, Data Protection, AI-Driven Defense Systems  
+**Overview**: SynTek International develops cybersecurity solutions and data protection systems, specializing in AI-driven defense technology. The company provides secure network solutions, encryption protocols, and threat detection systems for corporate clients and government entities. Their cybersecurity platforms are used to protect sensitive data and safeguard infrastructure from digital threats, including hacking and espionage.
+
+---
 
 ### HeiHu Technologies (黑虎科技)
 
-Based in: Hengsha, China
-Industry: Offensive Cyber Operations, Hacking Tools, Espionage Software
-Developed: DARKLOTUS Neural Hacking Suite, DARKLOTUS Data Breach Toolkit, DARKLOTUS Quantum Code Breaker, DARKLOTUS Deep Web Infiltration System, DARKLOTUS AI Cyberattack Platform
+**Based in**: Hengsha, China  
+**Industry**: Quantum Computing, Offensive Cyber Operations, Hacking Tools, Espionage Software  
+**Overview**: HeiHu Technologies designs and produces hacking tools, espionage software, and cyber attack platforms. The company focuses on offensive cyber operations, providing products used for data breaches, digital infiltration, and network disruption. HeiHu’s tools are used by private clients, government agencies, and military organizations for both defensive and offensive cyber warfare operations.
+
+---
 
 ### Tian Lu Clinical (天露诊疗集团)
 
-Based in: Shanghai, China
-Industry: Medical Technologies, Cybernetic Healthcare, Augment Repair, Human-Cybernetic Healthcare
+**Based in**: Shanghai, China  
+**Industry**: Medical Technologies, Cybernetic Healthcare, Augment Repair, Human-Cybernetic Healthcare  
+**Overview**: Tian Lu Clinical offers medical services focused on cybernetic healthcare and augment repair. The company operates clinics that provide surgical augmentation, maintenance, and repair for individuals with cybernetic enhancements. Tian Lu Clinical also offers rehabilitation and long-term care for patients who have undergone extensive augmentations, ensuring the seamless integration of cybernetic systems with organic tissues.
+
+---
 
 ### Helion Energy Group
 
-Based in: Dubai, UAE
-Industry: Fossil Energy, Resource Extraction, Power Grid Control
-Overview: Helion Dynamics is a global powerhouse in fossil fuel extraction and energy monopolization, providing vast amounts of power to megacities, industrial complexes, and corporate infrastructures. Known for their aggressive acquisition of global energy resources, Helion Dynamics controls significant oil, natural gas, and coal reserves across the world. Despite the global shift towards renewables, Helion has maintained dominance through strategic acquisitions, political leverage, and by integrating advanced power grid solutions that keep dependent megacities like VIRO fully operational. Their grip on fossil energy supplies gives them immense influence, making them indispensable to other megacorporations that rely on stable, uninterruptible energy flow to maintain their operations.
+**Based in**: Dubai, UAE  
+**Industry**: Fossil Energy, Resource Extraction, Power Grid Control  
+**Overview**: Helion Energy Group is involved in the extraction and distribution of fossil energy, controlling significant reserves of oil, natural gas, and coal. The company provides energy solutions to megacities and industrial sectors, managing power grid systems that distribute fossil fuel-generated electricity. Helion Energy Group operates globally, focusing on the acquisition and monopolization of energy resources through its power grid control systems.
 
-### **Takaishi Aeronautics (鷹石航空技術)**
+---
+
+### Takaishi Aeronautics (鷹石航空技術)
 
 **Based in**: Tokyo, Japan  
 **Industry**: Military Aviation, Aerospace Engineering, Unmanned Aerial Vehicles (UAVs)  
-**Overview**: **Takaishi Aeronautics (鷹石航空技術)** is a leading Japanese aerospace corporation specializing in military aviation technology, including cutting-edge fighter jets, advanced drones, and unmanned aerial combat systems. Known for their precision engineering and emphasis on speed, agility, and stealth, Takaishi Aeronautics supplies top-tier aerial combat units to militaries and private security contractors worldwide. The corporation is deeply integrated into Japan's defense sector, often working on classified projects involving next-generation aircraft and orbital defense systems. Their advanced UAVs are widely used for reconnaissance, tactical strikes, and autonomous warfare.
+**Overview**: Takaishi Aeronautics specializes in the design and manufacturing of military aviation technology, including manned and unmanned aerial vehicles. The company provides fighter jets, drones, and aerospace systems used in military operations. Takaishi Aeronautics is also involved in the development of orbital defense technologies and autonomous combat drones, which are employed in reconnaissance and tactical operations.
