@@ -1,7 +1,7 @@
 ### **DARKLOTUS Neural Hacking Suite**
 
 **Developer**: HeiHu Technologies (黑虎科技)  
-**Based in**: Hengsha, China  
+**Based in**: HeiHu Computer Science Labratory, Hengsha, China  
 **Industry**: Offensive Cyber Operations, Hacking Tools, Espionage Software
 
 ---
