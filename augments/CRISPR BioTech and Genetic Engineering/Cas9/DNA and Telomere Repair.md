@@ -23,7 +23,7 @@ The system operates via nano-bots that are injected intravenously into the circu
 - **Location**: Operates within the circulatory system  
 - **Power Source**: **Adenosine Triphosphate (ATP) Hydrolysis**  
 - **Power Draw**: 0.05065 aW  
-- **Maintenance**: Recommended checkup every 3-5 years; optional maintenance boosters may be administered  
+- **Maintenance**: Recommended checkup every 3-5 years; maintenance boosters may be administered  
 - **Repair Frequency**: Continuous, based on real-time monitoring of cellular damage  
 - **Lifespan Extension**: Projected 150-200% increase in natural lifespan  
 
