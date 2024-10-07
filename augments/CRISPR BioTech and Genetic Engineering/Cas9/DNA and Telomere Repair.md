@@ -1,7 +1,7 @@
 ### **Cas9 DNA and Telomere Repair System**
 
 **Manufacturer**: CRISPR BioTech and Genetic Engineering  
-**Developed in**: CRISPR Biomedical Labs, Shenzhen, China  
+**Developed in**: CRISPR Biomedical Labs, VIRO
 **Retail Price**: USD$149,999 (initial injection), USD$37,999 (maintanence booster)
 
 ---
