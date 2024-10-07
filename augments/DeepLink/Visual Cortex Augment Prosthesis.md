@@ -22,7 +22,7 @@ This prosthetic is primarily focused on creating a high-performance neural netwo
 - **Size**: 3.2 cm x 3.0 cm (Mini-class)  
 - **Location**: Visual Cortex, Eyes
 - **Processor**: **DeepLink SNN Neuromorphic Matrix**  
-- **Power Source**: DeepLink Standard Series 8+ Energy Transformer
+- **Power Source**: DeepLink Standard Series 5+ Energy Transformer
 - **Power Draw**: 0.1 W
 - **Neural Interface**: Direct brain-cortex link for full sensory integration  
 - **Compatability**: Compatible with all DeepLink Global augmentations and approved third-party systems  
