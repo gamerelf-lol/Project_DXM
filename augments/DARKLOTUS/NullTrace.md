@@ -38,10 +38,7 @@ NullTrace functions simultaneously across digital environments, ensuring that th
 3. **Zero-Lag Proxy Shifting**  
    The augment’s **zero-lag proxy shifting** system reroutes digital signals with no delay, ensuring that the user’s network activity is constantly shielded, even under heavy scrutiny or during network breaches. This allows for continuous operation in hostile environments without the risk of network tracebacks.
 
-4. **Signal Interference and Masking**  
-   The **DARKLOTUS NullTrace** system incorporates a signal interference layer that disrupts local tracking systems and electromagnetic scanners. This interference ensures that the user's digital presence remains hidden from any detection systems operating within a 50-meter radius.
-
-5. **Digital Footprint Erasure**  
+4. **Digital Footprint Erasure**  
    **NullTrace** automatically erases all evidence of the user’s online presence, removing logs, deleting session data, and overwriting any traceable information from compromised systems. This ensures that after a digital operation is complete, there is no trail left behind that could be used to trace the user.
 
 ---
