@@ -12,6 +12,16 @@ The technology behind HENP is based on an intricate blend of biochemical enginee
 
 ---
 
+### Technical Specifications
+
+- **Processor Size**: Approx. 4 cm x 2 cm, typically implanted within the abdominal cavity.
+- **Power Source**: Bioelectrical energy, self-sustaining through biochemical conversion.
+- **Compatibility**: Designed to work with all major cybernetic systems, including neural interfaces, prosthetics, and sensory enhancements.
+- **Food Types**: Primarily bioengineered nutrient compounds (e.g., **NeuroFuel™**, other synthetic foodstuffs), though it can adapt to process traditional food in emergency situations.
+- **Maintenance**: Requires routine diagnostics every 6-12 months to ensure functionality and efficiency, typically administered through proprietary CRISPR BioTech interfaces.
+
+---
+
 ### Functionality
 
 The **BIONEX HENP** operates by enhancing several key metabolic processes within the body. These include nutrient absorption, waste reduction, and the regulation of energy output. 
@@ -63,16 +73,6 @@ By the early 2100s, HENP had become a standard for those with advanced cyberneti
 Despite the widespread success of the **BIONEX HENP**, the system has faced criticism for fostering dependency among augmented individuals. Because the processors are designed to work with highly specialized, bioengineered foods such as **NeuroFuel™**, users often find themselves reliant on CRISPR BioTech's proprietary products. This has raised concerns about corporate control, as individuals with HENP must purchase these products regularly to sustain their bodies and augmentations.
 
 In addition, some critics argue that **HENP** may encourage over-augmentation, as the technology allows individuals to take on more cybernetic enhancements than their bodies could naturally support. This has led to debates about the ethics of pushing human bodies beyond their natural limits through augmentation and bioengineering.
-
----
-
-### Technical Specifications
-
-- **Processor Size**: Approx. 4 cm x 2 cm, typically implanted within the abdominal cavity.
-- **Power Source**: Bioelectrical energy, self-sustaining through biochemical conversion.
-- **Compatibility**: Designed to work with all major cybernetic systems, including neural interfaces, prosthetics, and sensory enhancements.
-- **Food Types**: Primarily bioengineered nutrient compounds (e.g., **NeuroFuel™**, other synthetic foodstuffs), though it can adapt to process traditional food in emergency situations.
-- **Maintenance**: Requires routine diagnostics every 6-12 months to ensure functionality and efficiency, typically administered through proprietary CRISPR BioTech interfaces.
 
 ---
 
