@@ -41,26 +41,19 @@ Based in: Hengsha, China
 Industry: Offensive Cyber Operations, Hacking Tools, Espionage Software
 Developed: DARKLOTUS Neural Hacking Suite, DARKLOTUS Data Breach Toolkit, DARKLOTUS Quantum Code Breaker, DARKLOTUS Deep Web Infiltration System, DARKLOTUS AI Cyberattack Platform
 
-### Tian Lu Life Sciences (天露生命科学)
+### Tian Lu Clinical (天露诊疗集团)
 
 Based in: Shanghai, China
 Industry: Medical Technologies, Cybernetic Healthcare, Augment Repair, Human-Cybernetic Healthcare
 
-### Atlas Industrial
+### Helion Energy Group
 
-Based in: VIRO, America
-Industry: Manufacturing, Industrial Robotics, Automated Fabrication
-Overview: Atlas Industrial Systems is a leading manufacturing firm specializing in the mass production of cybernetic components, industrial-grade prosthetics, and automated fabrication systems. Their advanced manufacturing processes are fully automated, utilizing AI-driven robotics and fabrication technologies to produce everything from augment parts to military hardware. Atlas is known for its ability to rapidly produce high-quality, precision-engineered products, making it the primary supplier for many of the megacorps within VIRO and beyond. Their facilities stretch across the industrial sectors of VIRO, where entire districts are dedicated to automated production.
+Based in: Dubai, UAE
+Industry: Fossil Energy, Resource Extraction, Power Grid Control
+Overview: Helion Dynamics is a global powerhouse in fossil fuel extraction and energy monopolization, providing vast amounts of power to megacities, industrial complexes, and corporate infrastructures. Known for their aggressive acquisition of global energy resources, Helion Dynamics controls significant oil, natural gas, and coal reserves across the world. Despite the global shift towards renewables, Helion has maintained dominance through strategic acquisitions, political leverage, and by integrating advanced AI-driven power grid solutions that keep dependent megacities like VIRO fully operational. Their grip on fossil energy supplies gives them immense influence, making them indispensable to other megacorporations that rely on stable, uninterruptible energy flow to maintain their operations.
 
-### **Novik Fabrications AB**
+### **Takaishi Aeronautics (鷹石航空技術)**
 
-**Based in**: **Gothenburg, Sweden**  
-**Industry**: Precision Manufacturing, Advanced Materials, Cybernetic Fabrication  
-**Overview**: **Nordvik Fabrications AB** is a leading Swedish manufacturing firm specializing in high-precision fabrication for advanced cybernetic systems, military-grade augmentations, and specialized industrial materials. Known for its commitment to quality and innovation, Nordvik produces some of the most durable and advanced components used in the global augmentation market. Their expertise in advanced materials science allows them to develop lightweight, ultra-durable prosthetics and cybernetic systems, commonly utilized by military and elite corporate clients. Nordvik has also pioneered eco-friendly manufacturing processes, focusing on reducing waste and energy consumption in their cutting-edge facilities, making them a key player in sustainable manufacturing.
-
-### Tytan Manufacturing
-
-Based in: Warsaw, Poland
-Industry: Heavy Manufacturing, Industrial-Grade Augmentation, Military Equipment
-Overview: TitanForge Industries is a European manufacturing powerhouse specializing in heavy-duty industrial equipment, cybernetic augmentations for extreme environments, and military-grade hardware. Known for its rugged, durable products, TitanForge serves industries that demand high-performance and long-lasting cybernetic systems. Their focus is on manufacturing augmentations that can endure harsh conditions, such as deep-space missions, extreme weather zones, and high-risk combat environments. TitanForge’s manufacturing plants are located across Eastern Europe, where they utilize cutting-edge automation to scale their production.
-
+**Based in**: Tokyo, Japan  
+**Industry**: Military Aviation, Aerospace Engineering, Unmanned Aerial Vehicles (UAVs)  
+**Overview**: **Takaishi Aeronautics (鷹石航空技術)** is a leading Japanese aerospace corporation specializing in military aviation technology, including cutting-edge fighter jets, advanced drones, and unmanned aerial combat systems. Known for their precision engineering and emphasis on speed, agility, and stealth, Takaishi Aeronautics supplies top-tier aerial combat units to militaries and private security contractors worldwide. The corporation is deeply integrated into Japan's defense sector, often working on classified projects involving next-generation aircraft and orbital defense systems. Their advanced UAVs are widely used for reconnaissance, tactical strikes, and autonomous warfare.
