@@ -1,6 +1,6 @@
 # Project VIRO: The City Shifter
 
-Project: VIRO, or (the Variable Infrastructure Re-Organization Algorithm) was launched in 2089 by Virex Dynamics, heralded as a revolutionary urban planning and development initiative. The goal of the project was to create a dynamic, self-adjusting city that would constantly optimize its layout for efficiency, population growth, and the unique developmental needs of augmented citizens.
+Project: VIRO, or the **Variable Infrastructure Re-Organization Algorithm** was launched in 2089 by Virex Dynamics, heralded as a revolutionary urban planning and development initiative. The goal of the project was to create a dynamic, self-adjusting city that would constantly optimize its layout for efficiency, population growth, and the unique developmental needs of augmented citizens.
 
 ### Initial Launch and Success, 2089
 
