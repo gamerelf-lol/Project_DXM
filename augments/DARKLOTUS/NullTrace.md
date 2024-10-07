@@ -21,7 +21,7 @@ NullTrace functions simultaneously across digital environments, ensuring that th
 - **Location**: Cerebral Cortex  
 - **Power Source**: Bio-electricity generated from the user’s neural activity  
 - **Power Draw**: 9.48 µW  
-- **Proxing Speed**: Instantaneous adaptive proxying with real-time rerouting through secure nodes  
+- **Speed**: Instantaneous adaptive proxying with real-time rerouting through secure nodes  
 - **Range**: Global  
 - **Interface**: Controlled through neural commands  
 
