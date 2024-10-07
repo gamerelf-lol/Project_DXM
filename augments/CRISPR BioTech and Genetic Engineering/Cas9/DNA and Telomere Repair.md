@@ -2,7 +2,7 @@
 
 **Manufacturer**: CRISPR BioTech and Genetic Engineering  
 **Developed in**: CRISPR Biomedical Labs, Shenzhen, China  
-**Retail Price**: USD$149,999 (per injection)
+**Retail Price**: USD$149,999 (initial injection), USD$37,999 (maintanence booster)
 
 ---
 
