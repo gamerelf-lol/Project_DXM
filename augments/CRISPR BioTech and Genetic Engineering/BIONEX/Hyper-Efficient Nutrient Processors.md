@@ -17,7 +17,7 @@ The technology behind HENP is based on an intricate blend of biochemical enginee
 - **Processor Size**: Approx. 4 cm x 2 cm, typically implanted within the abdominal cavity.
 - **Power Source**: Bioelectrical energy, self-sustaining through biochemical conversion.
 - **Compatibility**: Designed to work with all major cybernetic systems, including neural interfaces, prosthetics, and sensory enhancements.
-- **Food Types**: Primarily bioengineered nutrient compounds (e.g., **NeuroFuel™**, other synthetic foodstuffs), though it can adapt to process traditional food in emergency situations.
+- **Food Types**: Primarily designed for bioengineered nutrient compounds (e.g., **NeuroFuel™**, other synthetic foods), though it is compatible with traditional foods.
 - **Maintenance**: Requires routine diagnostics every 6-12 months to ensure functionality and efficiency, typically administered through proprietary CRISPR BioTech interfaces.
 
 ---
