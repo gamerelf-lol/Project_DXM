@@ -7,9 +7,9 @@
 
 ### Overview
 
-The **DARKLOTUS NullTrace Augment** is an advanced cyberstealth augmentation developed to provide users with absolute digital invisibility. This augment is designed to completely mask the user's physical location, network activity, and digital presence by utilizing a combination of adaptive proxying, radar scramblers, and sophisticated stealth protocols. It is used for covert and cyber operatives requiring total anonymity.
+The **DARKLOTUS NullTrace Augment** is an advanced cyberstealth augmentation developed to provide users with absolute digital invisibility. This dual-purpose system is designed to completely mask the user's physical location, network activity, and digital presence by utilizing a combination of adaptive proxying, electromagnetic scramblers, and sophisticated stealth protocols. It is used for covert operatives requiring total anonymity from both physical and digital detection threats.
 
-NullTrace is engineered to function in both digital and real-world environments, ensuring that the user leaves no trace during data breaches, infiltration missions, or covert operations. Whether hiding from AI surveillance systems, network intrusion detection, or physical radar tracking, the **DARKLOTUS NullTrace Augment** makes the user virtually undetectable.
+NullTrace functions simultaneously across both digital and physical environments, ensuring that the user leaves no trace during data breaches, infiltration missions, or covert operations. NullTrace is capable of hiding from the latest AI surveillance systems, network intrusion detection, physical radar tracking, and other electronic surveillance systems, including unmanned cameras, drones, and motion senesors. 
 
 ---
 
@@ -18,7 +18,8 @@ NullTrace is engineered to function in both digital and real-world environments,
 - **Type**: Cybernetic Neural Augmentation  
 - **Primary Function**: Physical and digital stealth; cloaking of network activity and physical presence  
 - **Size**: Micro-sized neural implant connected to the cerebral cortex  
-- **Power Source**: Bio-electricity generated from the user’s neural activity  
+- **Power Source**: Bio-electricity generated from the user’s neural activity
+- **Power Draw**: 9.48 µW
 - **Proxing Speed**: Instantaneous adaptive proxying with real-time rerouting through secure nodes  
 - **Camouflage Range**: Up to 50 meters for electromagnetic cloaking, with network masking globally  
 - **Software**: **EchoShroud™** Stealth Suite, capable of mimicking and rerouting signals to create a false digital footprint  
@@ -36,7 +37,7 @@ NullTrace is engineered to function in both digital and real-world environments,
    In the physical world, technology generates a magnetic field around the user that bends light and radar waves, rendering the individual invisible to most electronic surveillance systems, including cameras, drones, and motion sensors. This system is especially effective for avoiding detection in areas under heavy surveillance, such as corporate or military installations.
 
 3. **Neural-Controlled Anonymity**  
-  The augment is controlled directly through the user’s neural interface, allowing them to switch between full invisibility, network masking, and localized stealth at will. This ensures that the user can adapt to changing situations in real time, whether they are breaching a high-security database or moving through a heavily monitored environment.
+   The augment is controlled directly through the user’s neural interface, allowing them to switch between full invisibility, network masking, and localized stealth at will. This ensures that the user can adapt to changing situations in real time, whether they are breaching a high-security database or moving through a heavily monitored environment.
 
 4. **Zero-Lag Proxy Shifting**  
    The augment's **zero-lag proxy shifting** system reroutes digital signals with no delay, ensuring that the user’s network activity is constantly shielded, even under heavy scrutiny or during network breaches. This allows for continuous operation in hostile environments without the risk of network tracebacks.
@@ -51,7 +52,12 @@ NullTrace is engineered to function in both digital and real-world environments,
 
 ### Applications
 
-- **Covert Cyber Operations**: The **DARKLOTUS NullTrace Augment** is essential for operatives who require complete anonymity while executing cyberattacks, data breaches, or network infiltrations. Its adaptive proxying and footprint erasure ensure that no digital evidence remains after an operation.
-- **Physical Infiltration**: With its electromagnetic camouflage, the augment allows users to move undetected through highly secured environments, avoiding cameras, drones, and biometric sensors.
-- **Espionage and Reconnaissance**: NullTrace is particularly useful for intelligence operatives and corporate spies who need to blend into both digital and physical landscapes without raising suspicion or triggering security alerts.
-- **Sabotage Operations**: The augment is used by black-ops teams and cyber mercenaries for operations where being detected is not an option. Its ability to cloak both network and physical presence makes it a valuable tool for sabotage missions in enemy territory.
+- **Covert Cyber Operations**: The **DARKLOTUS NullTrace Augment** is essential for operatives who require complete anonymity while executing cyberattacks, data breaches, or network infiltrations. Its adaptive proxying and footprint erasure ensure that no digital evidence remains after an operation. By enhancing neural hacking systems, it ensures that all network traffic and hacking activity remain undetectable, making it ideal for digital stealth.
+  
+- **Physical Infiltration**: With its electromagnetic camouflage, the augment allows users to move undetected through highly secured environments, avoiding cameras, drones, and biometric sensors. The physical cloaking capabilities provide protection against nearly all forms of detection, making it invaluable for infiltrating heavily guarded areas.
+
+- **Espionage and Reconnaissance**: NullTrace is particularly useful for intelligence operatives and corporate spies who need to blend into both digital and physical landscapes without raising suspicion or triggering security alerts. The dual functionality ensures users remain invisible not only in cyberspace but also in real-world environments under tight surveillance.
+
+- **Sabotage Operations**: The augment is used by black-ops teams and cyber mercenaries for operations where being detected is not an option. Its ability to cloak both network and physical presence makes it a valuable tool for sabotage missions in enemy territory. With its neural-enhanced stealth features, operatives can neutralize security systems and leave no trace of their interference.  
+
+By providing dual-location shielding and advanced neural-based network masking, **DARKLOTUS NullTrace** offers unparalleled anonymity for operatives engaged in high-stakes covert operations.
