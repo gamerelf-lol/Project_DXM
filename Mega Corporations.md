@@ -14,11 +14,19 @@
 
 ---
 
+### **Atlas Arms Corporation**
+
+**Based in**: VIRO, America
+**Industry**: Military-Grade Augmentations, Cybernetic Weaponry, Combat Enhancements  
+**Overview**: **Atlas Arms Corporation** specializes in the development and production of military-grade cybernetic augmentations and combat enhancements. The company designs and manufactures a wide range of augmentations tailored for use in combat situations, including exoskeletons, strength-enhancing prosthetics, and integrated weapon systems. Atlas Arms works closely with military organizations and private security forces, providing custom augmentation solutions that enhance battlefield performance and durability. Their products are engineered for use in high-stress environments and are designed to give soldiers superior capabilities in terms of speed, strength, and resilience.
+
+---
+
 ### NovaMedica
 
 **Based in**: Geneva, Switzerland  
 **Industry**: Medical Technologies, Augment Repair, Human-Cybernetic Healthcare  
-**Overview**: NovaMedica specializes in medical technologies and services that focus on augment repair and human-cybernetic healthcare. The company provides clinical solutions for individuals with augmentations, offering advanced prosthetic maintenance, repair services, and post-surgery rehabilitation. NovaMedica's services cater to both private clients and corporate healthcare programs, particularly in sectors where human augmentation is prevalent.
+**Overview**: NovaMedica is the largest clinical specialist in medical technologies and services for augment repair and human-cybernetic healthcare. The company provides clinical solutions for individuals with augmentations, offering advanced prosthetic maintenance, repair services, and post-surgery rehabilitation. NovaMedica's services cater to both private clients and corporate healthcare programs, particularly in sectors where human augmentation is prevalent.
 
 ---
 
@@ -27,14 +35,6 @@
 **Based in**: VIRO, America  
 **Industry**: Genetic Engineering, Bioaugmentation, Food Engineering  
 **Overview**: CRISPR Biotech and Genetic Engineering focuses on the modification of human biology through genetic engineering and bioaugmentation. The company produces bioengineered food products, enhancements for human performance, and medical treatments designed to improve physical and cognitive functions. Their products are widely used in various sectors, including healthcare, corporate environments, and industrial operations.
-
----
-
-### **Atlas Arms Corporation**
-
-**Based in**: Johannesburg, South Africa  
-**Industry**: Military-Grade Augmentations, Cybernetic Weaponry, Combat Enhancements  
-**Overview**: **Atlas Arms Corporation** specializes in the development and production of military-grade cybernetic augmentations and combat enhancements. The company designs and manufactures a wide range of augmentations tailored for use in combat situations, including exoskeletons, strength-enhancing prosthetics, and integrated weapon systems. Atlas Arms works closely with military organizations and private security forces, providing custom augmentation solutions that enhance battlefield performance and durability. Their products are engineered for use in high-stress environments and are designed to give soldiers superior capabilities in terms of speed, strength, and resilience.
 
 ---
 
