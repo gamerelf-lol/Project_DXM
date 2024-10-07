@@ -1,7 +1,7 @@
 ### **DARKLOTUS NullTrace**
 
 **Developer**: HeiHu Technologies (黑虎科技)  
-**Developed in**: HeiHu Computer Science Laboratory, Hengsha, China
+**Developed in**: HeiHu Computer Science Laboratory, Hengsha, China  
 **Retail**: CN¥15,999 (USD$2,199)
 
 ---
