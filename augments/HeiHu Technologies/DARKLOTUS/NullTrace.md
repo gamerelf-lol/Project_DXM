@@ -1,7 +1,8 @@
 ### **DARKLOTUS NullTrace**
 
 **Developer**: HeiHu Technologies (黑虎科技)  
-**Developed in**: HeiHu Computer Science Laboratory, Hengsha, China   
+**Developed in**: HeiHu Computer Science Laboratory, Hengsha, China
+**Retail**: CN¥15,999 (USD$2,199)
 
 ---
 
@@ -16,14 +17,16 @@ NullTrace functions simultaneously across digital environments, ensuring that th
 ### Technical Specifications
 
 - **Type**: Cybernetic Neural Augmentation  
-- **Primary Function**: Digital stealth; cloaking of network activity  
-- **Size**: 0.7mm x 0.08mm (Micro-class)  
+- **Primary Function**: Digital stealth; cloaking of network activity
+- **Processor Type**: Jinshu ARM22 v8.2 Cortex-MU
+- **Size**: 0.7mm x 0.08mm (Micro-class)
 - **Location**: Cerebral Cortex  
 - **Power Source**: Bio-electricity generated from the user’s neural activity  
 - **Power Draw**: 9.48 µW  
 - **Speed**: Instantaneous adaptive proxying with real-time rerouting through secure nodes  
 - **Range**: Global  
-- **Interface**: Controlled through neural commands  
+- **Interface**: Controlled through neural commands
+- **Maintanence**: None
 
 ---
 
