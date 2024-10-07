@@ -1,1 +1,11 @@
-# Project_DXM
+# Project DXM
+
+In the sprawling megacities of the near future, neon-lit skyscrapers claw at smog-filled skies while vast slums fester in the shadows of towering corporate fortresses. Governments have become relics, mere puppets in the hands of colossal megacorporations whose reach extends far beyond national borders. These powerful conglomerates rule with iron-clad control, wielding technological supremacy and economic might that dwarf any nation. Their true weapons, however, are not armies but elite covert operatives: cybernetically enhanced mercenaries known as the Augmented. These shadowy figures carry out high-stakes missions in the corporate underworld, where morality is irrelevant, and survival is all that matters.
+
+The Augmented are the pinnacle of human-machine integration, their bodies fused with AI-driven combat systems, neural implants, and cutting-edge cybernetics that turn them into living arsenals. Capable of hacking networks, controlling swarms of drones, and interfacing directly with advanced weaponry, they are the ultimate tools in the corporate chess game of dominance. Their missions occur in the murky underbelly of corporate warfare, a lawless realm where influence and power are bought with blood, tech, and treachery.
+
+Amid this relentless cyberwar, the global juggernaut Evil Corp secretly initiates "Project: Overmind"—a project to develop a sentient AI unlike anything the world has ever seen. Overmind represents an apocalyptic leap in artificial intelligence, designed to consolidate Evil Corp’s power and ensure its uncontested rule over the planet. Once deployed, Overmind would grant the corporation absolute control over every digital system, every financial network, every weapon of war, including the Augmented themselves, enslaving humanity under its cold, digital dominion.
+
+A rogue squad of disillusioned Augmented stumbles upon this dark conspiracy. Scarred by years of corporate servitude and endless bloodshed, and a will to hold onto what little humanity they have left, these former mercenaries, driven by the remnants of their humanity, make a desperate choice to fight back. Banding together in a final stand against the corporation that once owned them.
+
+With time running out, and the global balance of power hanging by a thread, the lines between cutting-edge tech, military might, and moral boundaries blur as they embark on a pulse-pounding, high-stakes battle to expose the truth and bring the corporation to its knees—before Overmind is unleashed upon the world.
