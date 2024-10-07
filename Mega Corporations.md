@@ -1,6 +1,6 @@
 # Who are the mega-corps?
 
-### the really evil corporation
+### DeepLink Global
 
 Based in: VIRO, America
 Industry: Neural Cybernetics, AI Development
@@ -29,7 +29,7 @@ Based in: Shenzhen, China
 Industry: Semiconductors, Cybernetic Chips, AI-Integrated Hardware
 Overview: Jinshu Microsystems is a Chinese multinational corporation specializing in high-performance semiconductors and processors for cybernetic augmentations, AI systems, and advanced computing hardware. With deep roots in cutting-edge semiconductor technology, Jinshu Microsystems is the leading supplier of neural-compatible chips and AI-integrated hardware, primarily catering to the cybernetic augmentation and military sectors. Known for its precision engineering and ability to mass-produce advanced semiconductors, Jinshu’s innovations power a significant portion of the world’s augmented individuals.
 
-### Sentinel Networking & Security
+### SynTek Intenational
 
 Based in: VIRO, America
 Industry: Cybersecurity, Data Protection, AI-Driven Defense Systems
