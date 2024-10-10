@@ -3,7 +3,7 @@
 **Developer**: HeiHu Technologies (黑虎科技)  
 **Developed in**: HeiHu Quantum Systems Division, Hengsha, China  
 **Retail**: CN¥29,999 (USD$4,099)   
-**Requires**: "**DeepLink** Neural Command Center, compatible **Jinshu** QX-Matrix 7.9 Superconductor Chip or higher, **DeepLink** Audio Cortex Augment Prosthesis (ACAP).   
+**Requires**: **DeepLink** Neural Command Center, compatible **Jinshu** QX-Matrix 7.9 Superconductor Chip or higher, **DeepLink** Audio Cortex Augment Prosthesis (ACAP).   
 **Optional**: **DeepLink** Visual Cortex Augment Prosthesis (VCAP).   
 
 ---
